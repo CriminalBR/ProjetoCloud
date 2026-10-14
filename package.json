@@ -1,0 +1,22 @@
+{
+  "name": "projetocloud",
+  "version": "1.0.0",
+  "description": "Pipeline CI mínimo e reprodutível",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build executado com sucesso!'",
+    "test": "echo 'Testes executados com sucesso!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CriminalBR/ProjetoCloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CriminalBR/ProjetoCloud/issues"
+  },
+  "homepage": "https://github.com/CriminalBR/ProjetoCloud#readme"
+}
